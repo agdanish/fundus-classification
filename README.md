@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 👁️ Fundus Image Classification App
 
 A Streamlit-based web application for automatic classification of fundus (retinal) images as **Normal** or **Abnormal** using deep learning.
@@ -194,3 +195,7 @@ For questions or feedback:
 ---
 
 Made with ❤️ using Streamlit and TensorFlow
+=======
+# fundus-classification
+Deep learning fundus image classifier built with TensorFlow InceptionV3 and Streamlit. Classifies retinal images as Normal or Abnormal with confidence scores.
+>>>>>>> 006dde0dc809b0c7444c42896d321d04b6e06ae5
